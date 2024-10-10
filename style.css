@@ -1,4 +1,20 @@
 body {
-    background: black;
-    color: white;
+    background: rgb(255, 0, 234);
+    color: rgb(0, 0, 0);
+}
+
+section {
+    background-color: yellow;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 20px;
 }
