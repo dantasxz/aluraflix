@@ -1,6 +1,8 @@
 body {
     background: rgb(255, 0, 234);
     color: rgb(0, 0, 0);
+    margin: 0opx;
+    font-family: "poppins", sans-serif;
 }
 
 section {
@@ -11,10 +13,14 @@ section {
     justify-content: center;
 }
 
-div {
+.chamada-texto {
     margin-right: 20px;
 }
 
-.chamada-texto {
-    margin-right: 20px;
+h1 {
+    font-size: 40opx;
+}
+
+p{
+    font-size: 20opx;
 }
