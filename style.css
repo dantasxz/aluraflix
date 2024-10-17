@@ -5,6 +5,13 @@ body {
     font-family: "poppins", sans-serif;
 }
 
+header {
+    border-bottom: solid 2px blueviolet rgb(42, , 122, rgb(255, 0, 64));
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(rgb(0, 255, 98), rgb(255, 0, 255), rgb(200, 255, 0));
+}
+
 section {
     background-color: yellow;
     padding-bottom: 80px;
@@ -21,6 +28,6 @@ h1 {
     font-size: 40opx;
 }
 
-p{
+p {
     font-size: 20opx;
 }
